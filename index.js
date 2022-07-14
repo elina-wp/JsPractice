@@ -1,8 +1,8 @@
 
 /**** Values and Variables in JavaScript ****/
-// var myName = 'alina maharjan';
-// var myAge = 26;
-// console.log(myage);
+var myName = 'alina maharjan';
+var myAge = 26;
+console.log(myAge);
 
 //Naming Practice
 /*var _myName = "alina";
